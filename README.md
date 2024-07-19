@@ -8,7 +8,7 @@ Tiros: 100
 Resultados: una 80, dos 79, dos 78, etc
 
 ### Cazatalentos 2
-Personas: 1200
+Personas: 200
 
 Tiros: 100
 
